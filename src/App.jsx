@@ -213,6 +213,10 @@ const Home = ({ onOpenProtocols }) => (
       </div>
     </section>
 
+    {/* LIVE THREAT MAP - Temporarily Disabled
+    <ScamMap />
+    */}
+
     {/* RECENT BLOG / BLOG SECTION */}
     <section id="blog" className="max-w-7xl mx-auto px-6 md:px-12 pt-10 md:pt-24">
       <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 md:mb-20 border-b border-white/5 pb-10 gap-6">
